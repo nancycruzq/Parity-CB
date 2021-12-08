@@ -409,7 +409,7 @@ footer{
 
         display: flex;
         position: fixed;
-        transform: translateX(650%);
+        transform: translateX(500%);
     }
     .menu__item{
         --clip: 0;
